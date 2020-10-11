@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Untitled
+post_title: home
 author: admin
 post_excerpt: ""
 layout: page
@@ -8,8 +8,8 @@ permalink: https://dasschenkichdir.de/
 published: true
 post_date: 2020-07-05 20:03:19
 ---
-<!-- wp:heading {"align":"center"} -->
-<h2 class="has-text-align-center">Simple | Modern | DIY</h2>
+<!-- wp:heading {"align":"center","textColor":"black","fontSize":"large"} -->
+<h2 class="has-text-align-center has-black-color has-text-color has-large-font-size">Simple | Modern | DIY</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":76} -->
