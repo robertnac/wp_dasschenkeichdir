@@ -12,6 +12,10 @@ post_date: 2020-07-05 20:03:19
 <h2 class="has-text-align-center">Simple | Modern | DIY</h2>
 <!-- /wp:heading -->
 
+<!-- wp:spacer {"height":76} -->
+<div style="height:76px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:spacer {"height":78} -->
 <div style="height:78px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
