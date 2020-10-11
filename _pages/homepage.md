@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: home
+post_title: Untitled
 author: admin
 post_excerpt: ""
 layout: page
